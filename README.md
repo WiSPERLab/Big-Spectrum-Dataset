@@ -3,4 +3,6 @@ Datasets of cognitive adhoc network with pairs of senders-receivers nodes. The d
 
 Different network scenarios (termed design points) were simulated and experimented. Each scenario was formed by varying the network parameters. 
 
-The complete dataset obtained from OMNeT++ simulation is available for download at https://drive.google.com/drive/folders/1gK5Ue9vqy75ymAUzLq9x0diVxAQXoqx5?usp=sharing
+The simulation model is available for download at https://github.com/WiSPERLab/SASim.
+
+The complete dataset obtained from OMNeT++ simulation is available for download at https://drive.google.com/drive/folders/1gK5Ue9vqy75ymAUzLq9x0diVxAQXoqx5?usp=sharing.
